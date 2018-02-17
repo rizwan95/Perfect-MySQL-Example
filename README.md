@@ -52,14 +52,14 @@ You will get an output like this
 
 After starting your server, you can now add or fetch the todos.
 
-# Add todo
+## Add todo
 
 <pre><code>API URL - 0.0.0.0:8082/addToDo 
  METHOD - POST
  Parameters -  Key - "taskStringValue" Value - "Your task" </code></pre>
 
 
-# Fetch todos
+## Fetch todos
 
 <pre><code>API URL - 0.0.0.0:8082/fetchToDo 
 METHOD - GET
