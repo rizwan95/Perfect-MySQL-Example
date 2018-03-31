@@ -1,3 +1,7 @@
+[![GitHub issues](https://img.shields.io/github/issues/rizwan95/Perfect-MySQL-Example.svg)](https://github.com/rizwan95/Perfect-MySQL-Example/issues)
+[![GitHub license](https://img.shields.io/github/license/rizwan95/Perfect-MySQL-Example.svg)](https://github.com/rizwan95/Perfect-MySQL-Example/blob/master/LICENSE)
+
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/rizwan95/Perfect-MySQL-Example.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Frizwan95%2FPerfect-MySQL-Example)
 # PerfectTodoBackend
 
 
